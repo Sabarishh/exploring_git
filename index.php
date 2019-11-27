@@ -5,6 +5,6 @@
   <script>tinymce.init({ selector:'textarea' });</script>
 </head>
 <body>
-  <textarea>Next, get a free Tiny Cloud API key!</textarea>
+  <textarea>Next, get a free Tiny Cloud API key!3</textarea>
 </body>
 </html>
